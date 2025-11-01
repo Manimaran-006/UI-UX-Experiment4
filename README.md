@@ -1,26 +1,20 @@
 # UI-UX-Experiment4
 
 ## Aim:
-To Design a wireframe diagram for a generic application or website using Balsamiq
+Design a wireframe diagram for a generic application or website using Balsamiq, including at least 5 essential screens/pages.
 
-## Problem Statement:
-At least 5 essential screens/pages:
+## Algorithm:
 
-Welcome/Splash Screen
-
-Login/Signup Screen
-
-Home/Dashboard Screen
-
-Content/Product Listing Screen
-
-Checkout/Contact/Final Action Screen.
-
+1. Welcome/Splash Screen
+2. Login/Signup Screen
+3. Home/Dashboard Screen
+4. Product Listing & Checkout/Final Action Screens
+   
 ## Output:
 
-![Screenshot 2025-06-01 195917](https://github.com/user-attachments/assets/492decf3-94c5-46d4-8231-70dda802d66e)
+<img width="1321" height="548" alt="image" src="https://github.com/user-attachments/assets/b9fba2f1-e0d6-4280-9ede-de1d515f59fc" />
 
 ## Result:
 
-Designing a wireframe diagram for a generic application or website using Balsamiq is done successfully.
+The wireframe diagram for a generic application or website using Balsamiq is designed and verified.
 
